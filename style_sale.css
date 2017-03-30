@@ -1,0 +1,31 @@
+﻿body {
+}
+#btn_dropdown {
+width:100%;
+}
+.column {
+    float: right;
+    padding: 15px;
+}
+
+.clearfix::after {
+    content: "";
+    clear: both;
+    display: table;
+}
+#btn_invoice {
+margin-top:15px;
+}
+.columns {
+    float: left;
+    padding: 15px;
+}
+
+.clearfixes::after {
+    content: "";
+    clear: both;
+    display: table;
+}
+.input-group-addon {
+    border: none !important;
+}
